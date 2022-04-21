@@ -9,8 +9,8 @@ on:
 env:
   POSTGRESQL_VERSION: 13.4
   POSTGRESQL_DB: amigoscode
-  POSTGRESQL_USER: bibhashdb
-  POSTGRESQL_PASSWORD: "!L7WpHzyr8pHuZt"
+  POSTGRESQL_USER: postgres
+  POSTGRESQL_PASSWORD: password
   JAVA_VERSION: 1.11
 
 jobs:
