@@ -133,7 +133,7 @@ function App() {
                 </div>
             </Content>
 
-            <Footer style={{ textAlign: 'center' }}><a target="_blank" href="https://www.google.com">I love coding!</a></Footer>
+            <Footer style={{ textAlign: 'center' }}><a href="https://www.google.com">I love coding!</a></Footer>
         </Layout>
     </Layout>
 }
